@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bogdan9861/MarvelReact.git/static/css/main.055e3883.chunk.css",
+    "main.js": "/bogdan9861/MarvelReact.git/static/js/main.67c7a315.chunk.js",
+    "main.js.map": "/bogdan9861/MarvelReact.git/static/js/main.67c7a315.chunk.js.map",
+    "runtime-main.js": "/bogdan9861/MarvelReact.git/static/js/runtime-main.24f636f5.js",
+    "runtime-main.js.map": "/bogdan9861/MarvelReact.git/static/js/runtime-main.24f636f5.js.map",
+    "static/js/2.58d9a448.chunk.js": "/bogdan9861/MarvelReact.git/static/js/2.58d9a448.chunk.js",
+    "static/js/2.58d9a448.chunk.js.map": "/bogdan9861/MarvelReact.git/static/js/2.58d9a448.chunk.js.map",
+    "index.html": "/bogdan9861/MarvelReact.git/index.html",
+    "static/css/main.055e3883.chunk.css.map": "/bogdan9861/MarvelReact.git/static/css/main.055e3883.chunk.css.map",
+    "static/js/2.58d9a448.chunk.js.LICENSE.txt": "/bogdan9861/MarvelReact.git/static/js/2.58d9a448.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/bogdan9861/MarvelReact.git/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/bogdan9861/MarvelReact.git/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/bogdan9861/MarvelReact.git/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24f636f5.js",
+    "static/js/2.58d9a448.chunk.js",
+    "static/css/main.055e3883.chunk.css",
+    "static/js/main.67c7a315.chunk.js"
+  ]
+}
